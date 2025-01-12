@@ -11,7 +11,7 @@ Micro-services architecture and patterns, micro-frontends architecture.
 
 ### Project management
 
-Planning, estimating, executing, managing and supervising small teams, risk planning, developing quality assurance measures, client and customers communications.
+Planning, estimating, executing, managing and supervising small teams, developing quality assurance measures, client and customers communications.
 
 ### Languages
 
