@@ -1,6 +1,6 @@
 ## Contacts
 - 👋 Hi, I’m Alex Shuklin.
-- 👀 My area of expertise is building complex front-end applications. I am always excited to discover modern technologies and fundamentals in the field of software development. I take great pleasure in building beautiful and accessible user interfaces.
+- 👀 My area of expertise is building complex front-end applications. I am always excited to discover modern technologies and fundamentals in the field of software development.
 - 📫 Reach me out via email [ashukklin@gmail.com](mailto:ashukklin@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shukklin/).
 
 ## TECHNOLOGY SUMMARY
